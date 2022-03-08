@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+    text-align: center;
+    background-color:darkslategray;
+}
+
+#links {
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+a:visited {
+    color: antiquewhite;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
